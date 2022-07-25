@@ -4,7 +4,7 @@
     "id": "pinenutsrecipe",
     "name": "솔방울 요리",
     "authors": [ "Morang" ],
-    "description": "솔방울 식단.",
+    "description": "솔방울 제작법 복원.",
     "category": "items",
     "dependencies": [ "dda" ] 
   },
